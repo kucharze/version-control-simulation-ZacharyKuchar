@@ -15,7 +15,8 @@ How you handled the merge conflict.
 
 - I handled the Merge conflict by keeping the changes made in the header branch.
 Since the instructions wanted me to edit the footer in the header branch, I decided
-to keep the work done in that branch.
+to keep the work done in that branch. Once a branch was decided, I saved and
+committed the changes and pushed them to the main repository.
 
 
 How the pull request process helped you ensure code quality and collaboration.
