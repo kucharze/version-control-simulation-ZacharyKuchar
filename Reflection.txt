@@ -1,7 +1,15 @@
 The steps you took to create and manage branches.
 
+- I took the following steps to create and manage my branches.
+
 
 How you handled the merge conflict.
 
+- I handled the Merge conflict by 
+
 
 How the pull request process helped you ensure code quality and collaboration.
+
+- This process allowed me and others to reveiw each others code to ensure
+the quality of code.  We can all make sure that the quality of code is maintained.
+This allows our code to be readable to others so that others understand how it functions.
