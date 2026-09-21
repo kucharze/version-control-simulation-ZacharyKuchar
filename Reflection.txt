@@ -2,10 +2,20 @@ The steps you took to create and manage branches.
 
 - I took the following steps to create and manage my branches.
 
+1. I started off by creating the branches.
+- I had do some extra steps because I accidentally created the header branch first
+2. Then I set up the HTML file in each branch, adding some extra commits to allow for
+merging to work correctly due to the previous branch issue.
+3. I added a footer to the header branch as instructed
+4. I proceeded to merge both branches into main.
+5. I resolved the merge conflict by keeping the changes from the header branch
+
 
 How you handled the merge conflict.
 
-- I handled the Merge conflict by 
+- I handled the Merge conflict by keeping the changes made in the header branch.
+Since the instructions wanted me to edit the footer in the header branch, I decided
+to keep the work done in that branch.
 
 
 How the pull request process helped you ensure code quality and collaboration.
